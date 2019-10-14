@@ -17,6 +17,7 @@ class SearchBar extends React.Component {
       <div className="ui segment">
         <form onSubmit={this.onFormSubmit} className="ui form">
           <div className="field">
+            <h1>SnapShot - Download images for your next project!</h1>
             <h2>Find images for your next project!</h2>
             <input
               type="text"
